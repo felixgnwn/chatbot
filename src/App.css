@@ -1,0 +1,61 @@
+.header {
+  border-bottom: 2px solid black;
+}
+
+.message-list {
+  height: 400px;
+}
+
+.card {
+  width: 100%;
+}
+
+.chat {
+  margin-right: 2%;
+  margin-left: 2%;
+  padding: 0.5%;
+  border-radius: 10px;
+}
+
+.user {
+  background-color: greenyellow;
+}
+
+.bot {
+  background-color: aqua;
+}
+
+.input-group {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+.input-group input {
+  margin-right: 5px;
+  width: 80%;
+}
+
+@media (max-width: 768px) {
+  .card {
+    max-width: 90%;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 576px) {
+  .card {
+    margin: 0 auto;
+    max-width: 75%;
+  }
+
+  .chat {
+    padding: 1%;
+  }
+
+  .input-group input {
+    width: 60%;
+  }
+}

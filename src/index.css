@@ -1,0 +1,16 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  background: rgb(44, 47, 59);
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#root {
+  width: 750px;
+}
