@@ -7,6 +7,7 @@ Chatbot ini menggunakan model dari Microsoft DialoGPT untuk proses NLP.
 ### Mac
 
 [Install Python] https://www.dataquest.io/blog/installing-python-on-mac/
+
 [Install pip] https://phoenixnap.com/kb/install-pip-mac
 
 Usually on mac, its already installed with python3 and pip3
@@ -14,6 +15,7 @@ Usually on mac, its already installed with python3 and pip3
 ### Windows
 
 [Install Python] https://www.digitalocean.com/community/tutorials/install-python-windows-10
+
 [Install pip] https://www.geeksforgeeks.org/how-to-install-pip-on-windows/
 
 If you have Python & pip installed then check their version in the terminal or command line tools
