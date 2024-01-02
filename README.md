@@ -1,6 +1,6 @@
 # ChatBot
 
-Chatbot ini menggunakan model dari Microsoft DialoGPT untuk proses NLP.ç
+Chatbot ini menggunakan model dari Microsoft DialoGPT untuk proses NLP.
 
 ## Installation & Setup
 
